@@ -29,7 +29,30 @@ cd NOMBRE_DEL_REPOSITORIO
 git status
 ```
 
-Después de clonar el repositorio, completa esta sección durante la primera misión con los comandos para crear, activar y preparar el entorno virtual.
+### Instalación
+
+Crea el entorno virtual:
+
+```bash
+python3 -m venv .venv
+```
+
+Activa el entorno virtual:
+
+- En **Linux/Mac**:
+```bash
+  source .venv/bin/activate
+```
+- En **Windows (PowerShell)**:
+```bash
+  .venv\Scripts\activate
+```
+
+Instala las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Estructura esperada
 
