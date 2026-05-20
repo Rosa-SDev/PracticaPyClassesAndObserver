@@ -185,4 +185,4 @@ Al terminar las misiones, se creará un issue final de calificación. Ejecuta ma
 
 ## Autores
 
-- Reemplaza esta línea con tu nombre, grupo, curso o rol.
+- Rosa Isabel Peña Yagüe | Código: 2220232009 | Semestre 6 | Ingeniería de Software
